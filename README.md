@@ -25,7 +25,7 @@ Getting Started
 
 To view the website locally:
 git clone https://github.com/Lokistark/Simple-Portfolio.git
-Then open loki.html in your browser.
+Then open index.html in your browser.
 
 Technologies Used
 
